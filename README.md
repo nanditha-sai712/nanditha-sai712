@@ -1,4 +1,27 @@
-## Hi there 👋
+💫 Hi 👋, I'm Juttiga Nanditha Sai
+💻 Software Developer | 🌐 Full Stack Developer | 🤖 AI Enthusiast
+
+I am a Computer Science graduate passionate about building scalable web applications and AI-powered solutions.
+
+🚀 Skilled in Python, React, FastAPI, MongoDB, REST APIs, and modern web technologies.
+
+🌱 Currently exploring Generative AI, RAG Systems, Large Language Models (LLMs), and Cloud Technologies.
+
+🚀 Featured Projects
+📄 DocuChat AI
+
+AI-powered document chatbot built using React, FastAPI, MongoDB, and Groq LLM.
+
+🔹 Upload documents and chat with them using natural language
+🔹 Built using Retrieval-Augmented Generation (RAG) architecture
+🔹 Focused on reducing hallucinations and improving response quality
+
+🔧 PrognosAI
+
+Predictive Maintenance System using Machine Learning and LSTM Networks.
+
+🔹 Predicts Remaining Useful Life (RUL) from sensor data
+🔹 Built using Python, TensorFlow, Pandas, and NumPy
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juttiga-nanditha-sai-80249a259) 
 
